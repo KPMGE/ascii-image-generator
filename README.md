@@ -19,3 +19,6 @@ You're gonna see the converted image in your terminal. Depending on the resoluti
 ```bash
 ./ascii-image-generator <image png file> > file.txt
 ```
+### Examples 
+Running the program and passing in a sample image, we see one clearly one of the most powerful editors ever is being displayed on our terminal! 
+![vim terminal image](https://github.com/KPMGE/ascii-image-generator/blob/main/images/vim-gen.png)
